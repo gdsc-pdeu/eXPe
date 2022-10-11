@@ -19,6 +19,8 @@
 ![image](https://user-images.githubusercontent.com/45930809/147649667-18b47b76-7904-4b70-a10d-4afa37b678de.png)
 ![image](https://user-images.githubusercontent.com/45930809/147649683-fc706dfa-8ea8-41e9-a06e-de2a0d844374.png)
 
+### Developed by [Jay Nakum](https://github.com/JayNakum).
+
 ## Credits
 UI is from [SalesApp](https://github.com/JideGuru/SalesApp) by [Festus Olusegun](https://github.com/JideGuru/).
 
@@ -89,4 +91,3 @@ git push -u origin <your_branch_name>
 
 **15** Voila!! You have made a PR to the eXPe . Wait for your submission to be accepted and your PR to be merged.
 
-### Developed by [Jay Nakum](https://github.com/JayNakum).
